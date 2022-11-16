@@ -1,15 +1,31 @@
-# Netpractice 42Bangkok
+<div align=center >
+    <h1>Netpractice</h1>
+    <img src="https://raw.githubusercontent.com/viruskizz/viruskizz-myutils/main/badge04-netpractice.png" alt="minishell badge" />
+</div>
 
-## About
+## _42Bangkok's project_
 
-## Guide
-read my full guide in google slide
-[Netpractice 42Bangkok guide]
+The **Netpractice** 42 project is a general practical exercise to let you discover networking. You will have to configure small-scale networks. To do so, it will be necessary to understand how TCP/IP addressing works.
 
-## My learning resource
+You will have to complete 10 levels (i.e. 10 exercises) and turn them in your Git
+repository.
 
+
+## Guide :bookmark_tabs:
+
+Read my full guide in [Netpractice 42Bangkok guide]
+
+### My learning resource
+This resource is coverage all knowledge that you should know. It short and good explaination
+
+- [Classless Inter-Domain Routing]
+- [Subnet mask sheet]
+- [CIDR]
+- [Broadcast Address]
 
 ## Concept
+
+### Configuration
 1. Client ip do not overlap to other
 2. Switch need to connect client in same subnet
 3. Router can connect between subnet
@@ -21,18 +37,18 @@ read my full guide in google slide
 6. Do not set local ip
     - from `127.0.0.1` to `127.255.255.254`
 
-## Step to solve problem
+### Step to solve problem
 1. Check CIDR or Subnet mask
 2. Check specific client ip that is assigned
 3. calculate available ip range in subnet
 4. Config route table follow by problem goals
 
-## How to pass the evaluation
+### How to pass the evaluation
 
 1. Memorize CIDR table
 2. Practice level 6 to 10 from thinking to muscle memory
 
-## CIDR Sheet table
+### CIDR Sheet table
 
 |     | Address |  Host |     Netmask     |
 |-----|:-------:|:-----:|:---------------:|
@@ -46,9 +62,31 @@ read my full guide in google slide
 | /18 |  16384  | 16382 | 255.255.192.0   |
 | /16 |  65536  | 65534 | 255.255.0.0     |
 
+### Basic Network
+
+You also can learn basic network config in level 1 - 5
+
+#### Level 1
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level1solve.png" alt="solve-level-1">
+
+#### Level 2
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level2solve.png" alt="solve-level-2">
+
+#### Level 3
+
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level3solve.png" alt="solve-level-3">
+
+#### Level 4
+
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level4solve.png" alt="solve-level-4">
+
+#### Level 5
+
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level5solve.png" alt="solve-level-5">
+
 ---
 
-## Challenge ya self
+## Challenge ya self :game_die:
 
 I would like to provide a hint for every level
 
@@ -87,7 +125,7 @@ I would like to provide a hint for every level
 
 ---
 
-## Burn da problem
+## Burn da problem :crossed_swords:
 
 Peek the answer to check your solution and earn your point.
 
@@ -123,4 +161,8 @@ Peek the answer to check your solution and earn your point.
 </details>
 
 <!-- Link -->
-[Netpractice 42Bangkok guide]: https://https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000
+[Netpractice 42Bangkok guide]: https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000
+[Classless Inter-Domain Routing]: https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing
+[Subnet mask sheet]: https://dnsmadeeasy.com/support/subnet
+[CIDR]: https://cidr.xyz/
+[Broadcast Address]: https://en.wikipedia.org/wiki/Broadcast_address
