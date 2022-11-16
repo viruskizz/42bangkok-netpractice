@@ -62,33 +62,62 @@ This resource is coverage all knowledge that you should know. It short and good 
 | /18 |  16384  | 16382 | 255.255.192.0   |
 | /16 |  65536  | 65534 | 255.255.0.0     |
 
-### Basic Network
+### Get started
+
+With these resources you can get through it in every level but it not easy anyway
+~~ Good luck
+
+<div style="width: 50%; min-width: 480px">
+    <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-cloud-fight.gif" alt="challenge-yaself">
+</div>
+
+---
+
+## Learn Basic Network
 
 You also can learn basic network config in level 1 - 5
 
-#### Level 1
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level1solve.png" alt="solve-level-1">
+<details>
+<summary>Level 1</summary>
 
-#### Level 2
+Every client need to be set as different ip address.
+
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level1solve.png" alt="solve-level-7">
+</details>
+
+<details>
+<summary>Level 2</summary>
+Border ip is cannot be used because it is reserved for network transmission.
+
 <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level2solve.png" alt="solve-level-2">
+</details>
 
-#### Level 3
+<details>
+<summary>Level 3</summary>
+Border ip is cannot be used because it is reserved for network transmission.
 
 <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level3solve.png" alt="solve-level-3">
+</details>
 
-#### Level 4
+<details>
+<summary>Level 4</summary>
+Border ip is cannot be used because it is reserved for network transmission.
 
 <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level4solve.png" alt="solve-level-4">
+</details>
 
-#### Level 5
+<details>
+<summary>Level 5</summary>
+Border ip is cannot be used because it is reserved for network transmission.
 
 <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level5solve.png" alt="solve-level-5">
+</details>
 
 ---
 
 ## Challenge ya self :game_die:
 
-I would like to provide a hint for every level
+I would like to provide a hint for every level from 6 - 10
 
 <div style="width: 50%; min-width: 480px">
     <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-sephiroth-burn.gif" alt="challenge-yaself">
