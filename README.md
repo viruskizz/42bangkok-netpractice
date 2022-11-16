@@ -46,15 +46,15 @@ read my full guide in google slide
 | /18 |  16384  | 16382 | 255.255.192.0   |
 | /16 |  65536  | 65534 | 255.255.0.0     |
 
+
+---
+
 ## Challenge ya self
 
 I would like to provide a hint for every level
-<div style="width: 50%; min-width: 480px">
-    <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-tifa-burn.gif" alt="burn-ya-point">
-</div>
 
 ### Levels
-
+<dl>
 <details>
 <summary>Level 6</summary>
 <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level6hint.png" alt="hint-level-6">
@@ -79,7 +79,11 @@ I would like to provide a hint for every level
 <summary>Level 10</summary>
 <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level10hint.png" alt="hint-level-10">
 </details>
+</dl>
 
+<div style="width: 50%; min-width: 480px">
+    <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-tifa-burn.gif" alt="burn-ya-point">
+</div>
 
 <!-- Link -->
 [Netpractice 42Bangkok guide]: https://https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000
