@@ -83,35 +83,35 @@ You also can learn basic network config in level 1 - 5
 
 Every client need to be set as different ip address.
 
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level1solve.png" alt="solve-level-7">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level1solve.png" alt="solve-level-1">
 </details>
 
 <details>
 <summary>Level 2</summary>
 Border ip is cannot be used because it is reserved for network transmission.
 
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level2solve.png" alt="solve-level-2">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level2solve.png" alt="solve-level-2">
 </details>
 
 <details>
 <summary>Level 3</summary>
 Border ip is cannot be used because it is reserved for network transmission.
 
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level3solve.png" alt="solve-level-3">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level3solve.png" alt="solve-level-3">
 </details>
 
 <details>
 <summary>Level 4</summary>
 Border ip is cannot be used because it is reserved for network transmission.
 
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level4solve.png" alt="solve-level-4">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level4solve.png" alt="solve-level-4">
 </details>
 
 <details>
 <summary>Level 5</summary>
 Border ip is cannot be used because it is reserved for network transmission.
 
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level5solve.png" alt="solve-level-5">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level5solve.png" alt="solve-level-5">
 </details>
 
 ---
@@ -167,27 +167,27 @@ Peek the answer to check your solution and earn your point.
 
 <details>
 <summary>Level 6</summary>
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level6solve.png" alt="solve-level-6">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level6solve.png" alt="solve-level-6">
 </details>
 
 <details>
 <summary>Level 7</summary>
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level7solve.png" alt="solve-level-7">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level7solve.png" alt="solve-level-7">
 </details>
 
 <details>
 <summary>Level 8</summary>
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level8solve.png" alt="solve-level-8">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level8solve.png" alt="solve-level-8">
 </details>
 
 <details>
 <summary>Level 9</summary>
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level9solve.png" alt="solve-level-9">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level9solve.png" alt="solve-level-9">
 </details>
 
 <details>
 <summary>Level 10</summary>
-<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/solve/level10solve.png" alt="solve-level-10">
+<img src="https://github.com/viruskizz/42bangkok-netpractice/blob/main/solve/level10solve.png" alt="solve-level-10">
 </details>
 
 <!-- Link -->
