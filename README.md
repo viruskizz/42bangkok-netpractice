@@ -46,14 +46,18 @@ read my full guide in google slide
 | /18 |  16384  | 16382 | 255.255.192.0   |
 | /16 |  65536  | 65534 | 255.255.0.0     |
 
-
 ---
 
 ## Challenge ya self
 
 I would like to provide a hint for every level
 
-### Levels
+<div style="width: 50%; min-width: 480px">
+    <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-sephiroth-burn.gif" alt="challenge-yaself">
+</div>
+
+### Hint 
+
 <dl>
 <details>
 <summary>Level 6</summary>
@@ -81,9 +85,42 @@ I would like to provide a hint for every level
 </details>
 </dl>
 
+---
+
+## Burn da problem
+
+Peek the answer to check your solution and earn your point.
+
 <div style="width: 50%; min-width: 480px">
     <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-tifa-burn.gif" alt="burn-ya-point">
 </div>
+
+### Solution
+
+<details>
+<summary>Level 6</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level6solve.png" alt="solve-level-6">
+</details>
+
+<details>
+<summary>Level 7</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level7solve.png" alt="solve-level-7">
+</details>
+
+<details>
+<summary>Level 8</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level8solve.png" alt="solve-level-8">
+</details>
+
+<details>
+<summary>Level 9</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level9solve.png" alt="solve-level-9">
+</details>
+
+<details>
+<summary>Level 10</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level10solve.png" alt="solve-level-10">
+</details>
 
 <!-- Link -->
 [Netpractice 42Bangkok guide]: https://https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000
