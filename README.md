@@ -64,13 +64,17 @@ This resource is coverage all knowledge that you should know. It short and good 
 ## Get started
 
 With these resources you can get through it in every level but it not easy anyway
+
 .
-.
-~~ Good luck
+
 
 <div style="width: 50%; min-width: 480px">
     <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-cloud-fight.gif" alt="challenge-yaself">
 </div>
+
+.
+
+~~ Good luck
 
 ---
 
