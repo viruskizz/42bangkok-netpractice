@@ -47,32 +47,39 @@ read my full guide in google slide
 | /16 |  65536  | 65534 | 255.255.0.0     |
 
 ## Challenge ya self
+
 I would like to provide a hint for every level
+<div style="width: 50%; min-width: 480px">
+    <img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/woff-tifa-burn.gif" alt="burn-ya-point">
+</div>
 
-## Challenge ya self
+### Levels
 
-### Level 6
+<details>
+<summary>Level 6</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level6hint.png" alt="hint-level-6">
+</details>
 
 <details>
 <summary>Level 7</summary>
-  
-![Level_7]("assets/")
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level7hint.png" alt="hint-level-7">
 </details>
+
 <details>
+<summary>Level 8</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level8hint.png" alt="hint-level-8">
+</details>
 
-### Level 8
+<details>
+<summary>Level 9</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level9hint.png" alt="hint-level-9">
+</details>
+
+<details>
+<summary>Level 10</summary>
+<img src="https://raw.githubusercontent.com/viruskizz/42bangkok-netpractice/main/assets/level10hint.png" alt="hint-level-10">
+</details>
 
 
-### Level 7
-
-
-### Level 9
-
-### Level 10
-
-
-<div>
-    <img src="" alt="burn-ya-point">
-</div>
 <!-- Link -->
 [Netpractice 42Bangkok guide]: https://https://docs.google.com/presentation/d/e/2PACX-1vSHNDVR-drtwoUsNS-kfkYPyMKcTXB4X2i4kHyJlbCmz9thSo0-7GWev9-wIfE3HKHIS_bv5XJn2GCP/pub?start=false&loop=false&delayms=3000
